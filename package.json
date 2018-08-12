@@ -1,0 +1,23 @@
+{
+  "name": "discord-noelle",
+  "version": "1.0.0",
+  "description": "Discord task assistant.",
+  "homepage": "https://github.com/ribbanya/discord-noelle#readme",
+  "bugs": {
+    "url": "https://github.com/ribbanya/discord-noelle/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribbanya/discord-noelle.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "Robin Avery",
+    "email": "ribbanya@gmail.com",
+    "url": "https://github.com/ribbanya"
+  },
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
